@@ -8,7 +8,7 @@ Simple - does not need extra servers or smartphone app.
 
 Not secure.
 
-Code pieces are taken from here and there while looking through ESP8266 programming guides and tutorias.
+Code pieces are taken from here and there while looking through ESP8266 programming guides and tutorials.
 
 ## hardware setup
 
