@@ -1,6 +1,6 @@
 # ktnn-wifi-30a
 
-Simple custom firmware for KTNNKG wifi 30A module. 
+Simple custom firmware for KTNNKG wifi 30A High Power WIFI Relay Switch. 
 
 Connects as client to the provided wifi hotspot (must be IEEE802.11 b/g/n (2.4MHz)) with a hardcoded ip address.
 
