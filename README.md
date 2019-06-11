@@ -8,7 +8,7 @@ Connects as client to the provided wifi hotspot (must be IEEE802.11 b/g/n (2.4MH
 
 * WIFI module is marked as PSF-B01
 * The pinout matches with [this one](https://www.itead.cc/wiki/PSF-B85). **Note the bottom view.**
-* **Soldering is required**
+* **Soldering is required**: TX, RX, GPIO0, GND and 3V3
 * Programming cable - [this one](https://www.amazon.com/gp/product/B07784SHF7/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1) with 3.3V used for VCC
 
 ## build and upload
